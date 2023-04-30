@@ -8,7 +8,7 @@ public class Task2_ {
                             Abbc =>false
          */
 
-        String word="racecar";
+        String word="Ana";
             String empty="";
         for (int i =word.length()-1; i >=0 ; i--) {
                    empty=empty+word.charAt(i);
