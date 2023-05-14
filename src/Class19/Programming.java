@@ -14,8 +14,7 @@ public class Programming {
         }
 
         Programming(String word) {
-
-           this.word=word;
+             this.word=word;
             System.out.println("I love "+word);
 
         }
